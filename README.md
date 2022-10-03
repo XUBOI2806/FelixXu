@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felix Xu</h1>
 <h3 align="center">An aspiring passionate game developer</h3>
+<h2>💫About Me :</h2>
+
+🌱 I’m currently learning **game development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
